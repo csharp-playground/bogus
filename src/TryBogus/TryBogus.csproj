@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.Net.SDK">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Bogus" Version="26.0.1" />
+    <PackageReference Include="wk.DynamicTables" Version="19.3.7.1829" />
+  </ItemGroup>
+</Project>
